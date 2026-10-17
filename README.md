@@ -1,4 +1,4 @@
-# 🚀 LeetCode 150+ DSA - Qualcomm Prep
+# 🚀 LeetCode 120+ DSA - Qualcomm Prep
 
 120+ LeetCode problems solved in **C++** | Optimized for Qualcomm SDE Interview
 
